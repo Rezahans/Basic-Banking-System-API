@@ -1,14 +1,15 @@
 # Basic-Banking-System-API
 
 # Requirement
-  1. Node.JS
-  2. Package Management
-  3. Express.JS
-  4. ORM with Prisma
-  5. Postgresql
-  6. VSCode
-  7. Thunder / Postman
-  8. CMD / Terminal
+  1. JavaScript
+  2. Node.JS
+  3. Package Management
+  4. Express.JS
+  5. ORM with Prisma
+  6. Postgresql
+  7. VSCode
+  8. Thunder / Postman
+  9. CMD / Terminal
      
 # express.js
   1. npm init -y
